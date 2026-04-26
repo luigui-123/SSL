@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+
+//hola
 typedef struct 
 {
     char nombre[20];
