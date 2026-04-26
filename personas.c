@@ -2,6 +2,9 @@
 
 
 //hola
+
+//mundo
+
 typedef struct 
 {
     char nombre[20];
