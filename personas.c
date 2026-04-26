@@ -33,6 +33,7 @@ void agregarPersona(Persona persona){
     fclose(archivo);
 }
 
+//mundo
 void menu(){
     printf("1. Agregar persona\n");
     printf("2. Mostrar personas\n");
